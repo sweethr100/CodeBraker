@@ -11,4 +11,4 @@ def brakecode(user_code):
 
 if __name__ == "__main__":
     user_code = input("니 코드 입력 : ")
-    print(brakecode(user_code))          
+    print(brakecode(user_code))
